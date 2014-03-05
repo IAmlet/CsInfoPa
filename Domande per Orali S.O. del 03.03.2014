@@ -1,0 +1,98 @@
+Sistemi Operativi
+Domande fatte alla prova orale del 03.03.2014 (Prova lab. Del 28.02.2014)
+
+
+1.
+
+- Processi, virtualizzazione CPU, parallelismo
+Elementi coinvolti in un processo
+Spazio di indirizzi 
+Stati di un processo
+
+- Schedulazione
+Quando e chi attiva lo schedulatore
+Sistemi interattivi, come si comporta lo scheduling
+
+- Gestione Memoria
+Si gestiscono in due modi: bitmap, liste
+Quanta memoria sciupiamo con bitmap e quanta con liste
+Lista a Blocchi: struttura (indirizzo blocco, grandezza, prossimo)
+
+- DMA : Direct Memory Access
+Parte funzionale e strutturale
+
+- Buffer: cosa è, esempi di funzionamentio
+
+- I-Node
+
+
+
+2.
+
+Processi
+	Tabella processi
+
+Thread
+	Qual è la convenienza
+
+Run Time System
+	Cosa è? 
+
+Regione critica, alternanza stretta
+
+Chiamate Bloccanti
+
+Dead Lock
+
+MMU : Memory Management Unit
+
+Ride 1
+
+
+
+
+
+
+3.
+
+Ride
+	Mirroring, Duplex, Bit parità
+	Strategie per verifica correttezza dati
+	Codice Offman x rilevamento e correzioni errori
+
+File System
+	Consistenza file system
+	Tecniche di verifica consistenza F.S.
+
+Gestione Processi
+	Alternanza stretta
+	Soluzione di Peterson
+
+Algoritmo del banchiere
+
+Spoler di stampa
+
+Risorse
+	Prentive e Non Prentive (Rilascio e prerilascio)
+
+Algoritmo di Rimpiazzamento Pagine
+
+
+
+
+4. 
+
+Schedulazione Processi (Scheduler)
+	Priorità statica
+	Priorità dinamica
+	Liste prioritarie
+
+I/O Mappati in memoria
+	In presenza di cash in memoria centrale
+
+File system
+	Algoritmo braccetto disco…
+		Short
+		Ascensore
+	I-Node
+
